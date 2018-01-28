@@ -9,7 +9,7 @@ tags:
    - tutorial
 ---
 
-For a hobby project of mine and my [friend](https://github.com/bekorn)'s, I recently installed a Discourse forum into Google Cloud. I ran into some problems and couldn't find a tutorial that covers all the issues I faced. While I was dealing with the difficulties, I decided to create a tutorial that, hopefully, will help some other people who may be dealing with these issues as well.
+For a hobby project of mine and [my friend](https://github.com/bekorn)'s, I recently installed a Discourse forum into Google Cloud. I ran into some problems and couldn't find a tutorial that covers all the issues I faced. While I was dealing with the difficulties, I decided to create a tutorial that, hopefully, will help some other people who may be dealing with these issues as well.
 
 ## Why not Bitnami?
 
