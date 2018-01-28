@@ -9,4 +9,4 @@ First of all, I know that there is a one click installation with Bitnami. But it
 
 [Start Here](https://github.com/discourse/discourse/blob/master/docs/INSTALL-cloud.md)
 
-[Test](/images/linkedin_profile_square.jpg)
+![Test](/images/linkedin_profile_square.jpg)
