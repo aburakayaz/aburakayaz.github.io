@@ -13,7 +13,7 @@ For a hobby project of mine and [my friend](https://github.com/bekorn)'s, I rece
 
 ## Why not Bitnami?
 
-We first tried to install Discourse using Bitnami. To be honest, installation with Bitnami was quite easy; it was just one click. But the problem started when we tried to update the Discourse version. Surely, Bitnami documentations were there, but it didn't cover all the possible issues. While I was trying to find a solution, I've read some other people's Bitnami related questions in the official Discourse forum. I saw that the developers didn't like what Bitnami is doing with their software and suggested seeking help from the Bitnami documentation. At some point, I gave up trying to solve the problems and decided to install it from scratch, without Bitnami.
+At first, we tried to install Discourse using Bitnami. To be honest, installation with Bitnami was quite easy; it was just one click. But the problem started when we tried to update the Discourse version. Surely, Bitnami documentations were there, but it didn't cover all the possible issues. While I was trying to find a solution, I've read some other people's Bitnami related questions in the official Discourse forum. I saw that the developers didn't like what Bitnami is doing with their software and suggested seeking help from the Bitnami documentation. At some point, I gave up trying to solve the problems and decided to install it from scratch, without Bitnami.
 
 ## Disclaimer
 
